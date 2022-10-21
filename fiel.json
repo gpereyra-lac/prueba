@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/gpereyra-lac/prueba/main/file.yml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/gpereyra-lac/prueba/main/file.yml",
+            "name": "Foo"
+        }
+    ]
+}
